@@ -1,0 +1,109 @@
+﻿@model Details
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="width:100%" class="text-center">
+
+    @using (Html.BeginForm("insertupdate", "Home", FormMethod.Post, new { @class = "form-horizontal form-label-left", autocomplete = "off" }))
+    {
+
+
+        <table align="center" width="50%" style="border:1px solid black;">
+            @Html.HiddenFor(m => m.ID)
+            <tr>
+                <td align="left">
+                    <label>NAME</label>
+                </td>
+                <td colspan="2">
+                    @*<input id="name" type="text" />*@
+                    @Html.TextBoxFor(m => m.name)
+                </td>
+                
+            </tr>
+            <tr>
+                <td align="left">
+                    <label>AGE</label>
+                </td>
+                <td colspan="2">
+                    @Html.TextBoxFor(m => m.age)
+                </td>
+                
+            </tr>
+            <tr>
+                <td align="left">
+                    <label>
+                        GENDER
+                    </label>
+                </td>
+                <td>
+                    @Html.RadioButtonFor(m => m.gender, "M")
+                    <label>MALE</label>
+
+                </td>
+                <td>
+                    @Html.RadioButtonFor(m => m.gender, "F")
+                    <label>FEMALE</label>
+
+                </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <label>EMAIL ID</label>
+                </td>
+                <td colspan="2">
+                    @Html.TextBoxFor(m => m.email)
+                </td>
+
+
+            </tr>
+            <tr>
+                <td align="center" colspan="3">
+                    <button id=" submit">SUBMIT</button>
+
+                </td>
+                <td>
+                    @* <button id=" update">UPDATE</button>*@
+                </td>
+                <td>
+                    @* <button id=" delete">DELETE</button>*@
+                </td>
+            </tr>
+
+        </table>
+
+
+       <hr />
+
+       <table width="70%" align="center" border="1">
+           <tr>
+               <td>Name</td>
+               <td>Age</td>
+               <td>Gender</td>
+               <td>Email</td>
+               <td></td>
+           </tr>
+           @if (ViewBag.details != null)
+           {
+               @foreach (var val in ViewBag.details)
+
+               {
+                   <tr>
+                       <td>
+                           @Html.ActionLink((String)@val.name, "FillValues", "Home", new { Id = @val.ID, name=@val.name, age=@val.age, gender = @val.gender, email = @val.email })
+                       </td>
+                       @*<td>@val.name</td>*@
+                       <td>@val.age</td>
+                       <td>@val.gender</td>
+                       <td>@val.email</td>
+                       <td> @Html.ActionLink("Delete", "DeleteRecord", "Home", new { id = @val.ID })</td>
+                   </tr>
+               }
+           }
+           
+
+
+       </table>
+    }
+</div>

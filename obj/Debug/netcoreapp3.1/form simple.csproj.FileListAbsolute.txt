@@ -1,0 +1,43 @@
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.exe
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.deps.json
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.runtimeconfig.json
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.runtimeconfig.dev.json
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.pdb
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.Views.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\form simple.Views.pdb
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.csprojAssemblyReference.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.AssemblyInfoInputs.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.AssemblyInfo.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.csproj.CoreCompileInputs.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.RazorAssemblyInfo.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.RazorAssemblyInfo.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\staticwebassets\form simple.StaticWebAssets.Manifest.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\staticwebassets\form simple.StaticWebAssets.xml
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\scopedcss\bundle\form simple.styles.css
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.TagHelpers.input.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.TagHelpers.output.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.RazorCoreGenerate.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.RazorTargetAssemblyInfo.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.RazorTargetAssemblyInfo.cs
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.Views.pdb
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.pdb
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.genruntimeconfig.cache
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\obj\Debug\netcoreapp3.1\form simple.csproj.CopyComplete
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ishaque.narsingarhwa\source\repos\form simple\form simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
